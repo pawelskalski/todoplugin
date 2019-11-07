@@ -125,7 +125,7 @@
     width: .25rem;
     height: .6rem;
     border: solid rgba(204, 206, 207, 1);
-    border-width: 0 2px 2px 0;
+    border-width: 0 5px 5px 0;
     transition: background 250ms;
     transform: rotate(45deg);
 }
